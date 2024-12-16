@@ -183,3 +183,9 @@ Right Answer
 - Add support for more operations like modulus and exponentiation.
 - Implement a graphical user interface (GUI).
 - Introduce a leaderboard to track high scores.
+
+---
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository, improve the code, and submit a pull request.
